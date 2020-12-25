@@ -1,0 +1,1 @@
+{"name":"stm32f1_device_enum_test","type":"STM32F103x8","fromLibVer":1,"useLib":["stm32f10x_rcc.c","stm32f10x_gpio.c","misc.c"]}
